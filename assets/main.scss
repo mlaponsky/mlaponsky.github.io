@@ -1,0 +1,31 @@
+---
+---
+
+@import "minima";
+
+$Serif: 'Roboto Slab', serif;
+$SansSerif: 'Roboto', sans-serif;
+$Monospace: 'Inconsolata', monospace;
+
+code {
+    font-family: $Monospace;
+}
+
+p {
+    font-family: $SansSerif;
+    font-weight: 300;
+}
+
+a {
+    color: #4D21C4;
+    font-family: $Serif;
+}
+
+a:visited {
+    color: #9276FB;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $Serif;
+    font-weight: 900;
+}
