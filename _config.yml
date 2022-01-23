@@ -6,6 +6,7 @@ url:                 https://mlaponsky.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+highligher:          rouge
 
 # About/contact
 author:
