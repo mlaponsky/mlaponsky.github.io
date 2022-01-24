@@ -3,27 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome! I'm Max Laponsky, a data scientist from Washington, DC. In my day job, I focus on applying natural language processing techniques to healthcare problems and building deployable data infrastructure and analytics pipelines.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This blog is my journal, working through novel NLP and analytics projects that I've stumbeld across in my spare time. I've got a particular passion for music and basketball, and have been toying with data in bot of those spheres for some time. In the future, who knows what projects my latest obsession will take me towards.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+If you want to take a look at my projects, feel free to check out my [GitHub page](http://github.com/mlaponsky). If you want to get in touch, [shoot me an email](mailto:thebiglaponsky@gmail.com).
 
 Thanks for reading!
