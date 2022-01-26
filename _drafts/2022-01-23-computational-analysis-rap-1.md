@@ -1,0 +1,12 @@
+---
+layout: page
+title: "A Computational Analysis of Rap Lyrics (Part 1): Finding The Data"
+---
+
+The rise of hip-hop in popular music is perhaps one of the most jarring and radical developments in modern American music history. It was originally conceived as an inherently derivative form of music, sampling existing records. It was then lambasted from all manner fronts: musical purists decried the largely atonal vocals and lack of analog instrumentation as talentless, while racists willfully cherrypicked lyrics as a dog-whistle to justify harsh anti-crime actions against the communities from which the music came. All the while, it's popularity among the general population soared unabated. Rap artists increasingly started to dominate the billboard charts into the 21st century as a new generation of listeners and critics alike started evaluating the music on its own merits. The musical and lyrical features of hip hop - emphasis on beats and groove, samples, pop culture references in songwriting - inspired the dominant trends in popular music today while employing some of the great literary techniques of postmodern American writers like Thomas Pynchon. In 2018, the ascendence of rap crystalized completely, when Kendrick Lamar became (likely) the first artist ever to win a Pulitzer Prize for Music for a Billboard 200 album. Not Bob Dylan. Not Miles Davis. Not Joni Mitchell or Paul McCartney. Instead, a 30-year-old man from Compton, California reached hitherto unknown heights for a popular artist.
+
+That highly reductive history of hip hop within the context of American popular music serves to illustrate the unique status that rap holds within both music and culture. On one hand, it is inherently a folk music and always has been. This is music by people who have lived typical lives for people who have lived typical lives. It's lyrically dense, imbued with more explicit meaning than other forms of music can put together. All of which is to say that it's a potential gold mine for computational linguistics. Large amounts of socially-relevant vernacular text? It could be the stuff of a sociolinguist's dreams.
+
+This series of posts will explore the feasibility of using a rap lyrics as a corpus for linguistic analysis. Some questions I'll be looking to answer along the way:
+
+    1.  
